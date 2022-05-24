@@ -8,8 +8,7 @@
 >docker-compose up
 
 
-**Host: localhost**
-
+**Host: localhost**<br>
 **Port: 8000**
 
 
