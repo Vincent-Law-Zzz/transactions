@@ -9,3 +9,6 @@
 
 **Host: localhost**
 **Port: 8000**
+
+Django admin user : admin
+Django admin password : admin
