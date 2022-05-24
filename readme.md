@@ -18,8 +18,8 @@
 
 ### Django db admin
 
-username : admin <br>
-password : admin
+_username_: admin <br>
+_password_: admin
 
 **Host: localhost**<br>
 **Port: 8000**
