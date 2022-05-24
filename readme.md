@@ -15,5 +15,5 @@
 
 ### Django db admin
 
-username : admin 
+username : admin <br>
 password : admin
