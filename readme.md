@@ -1,5 +1,4 @@
 ### docker-compose services:
-
 + app
 + celery
 + database
@@ -12,6 +11,10 @@
 ### To run server use:
 
 >docker-compose up
+
+### To stop any service pass :
+
+>docker-compose stop [name of service]
 
 
 **Host: localhost**<br>
