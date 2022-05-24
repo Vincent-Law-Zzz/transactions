@@ -6,7 +6,7 @@
 
 ### To build project and to install all dependences use command:
 
->docker-compose build
+<docker-compose build>
 
 ### To run server use:
 
