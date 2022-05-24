@@ -25,5 +25,5 @@ password: _admin_
 **Port: 8000**
 
 <div style="width:100"> 
-  ![log0](https://user-images.githubusercontent.com/58348236/170150446-29a34cf9-46ce-488e-a843-97ccb98cc185.png) 
+  ![logo](https://user-images.githubusercontent.com/58348236/170150446-29a34cf9-46ce-488e-a843-97ccb98cc185.png) 
 </div>
