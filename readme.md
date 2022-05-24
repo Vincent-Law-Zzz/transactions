@@ -1,9 +1,9 @@
 ### docker-compose services:
 
-⋅⋅* app
-⋅⋅* celery
-⋅⋅* database
-⋅⋅* redis
++ app
++ celery
++ database
++ redis
 
 ### To build project and to install all dependences use command:
 
