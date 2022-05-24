@@ -7,5 +7,5 @@
 
 >docker-compose up
 
-**Host: 127.0.0.1**
+**Host: localhost**
 **Port: 8000**
