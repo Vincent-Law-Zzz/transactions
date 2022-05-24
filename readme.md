@@ -12,7 +12,7 @@
 
 >docker-compose up
 
-### To stop any service pass :
+### To stop any service use:
 
 >docker-compose stop [name of service]
 
