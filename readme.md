@@ -1,9 +1,9 @@
 
-#To build project and to install all dependences use command:#
+#To build project and to install all dependences use command: H3
 
 >docker-compose build
 
-#To run server use:#
+#To run server use:  H3
 
 >docker-compose up
 
