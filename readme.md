@@ -11,6 +11,8 @@
 
 **Port: 8000**
 
-Django admin username : admin
+**Django db admin**
 
-Django admin password : admin
+username : admin 
+
+password : admin
