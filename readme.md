@@ -24,11 +24,12 @@ password: _admin_
 **Host: localhost**<br>
 **Port: 8000**
 
-![image](https://user-images.githubusercontent.com/58348236/170151187-da70ee99-e6ee-4d83-941e-a5da39bcee1d.png)
+![image1](https://user-images.githubusercontent.com/58348236/170151187-da70ee99-e6ee-4d83-941e-a5da39bcee1d.png)
 
-![image](https://user-images.githubusercontent.com/58348236/170151143-d753d275-fdae-46b1-922f-f70ef6ffe768.png)
+![image2](https://user-images.githubusercontent.com/58348236/170151143-d753d275-fdae-46b1-922f-f70ef6ffe768.png)
 
-![image](https://user-images.githubusercontent.com/58348236/170151266-5313f83c-296a-473c-8839-f07a6b4d720c.png)
+![image3](https://user-images.githubusercontent.com/58348236/170151266-5313f83c-296a-473c-8839-f07a6b4d720c.png)
 
-![image](https://user-images.githubusercontent.com/58348236/170151399-a723afdd-a87a-4176-bb74-f64bc57677ee.png)
+![image4](https://user-images.githubusercontent.com/58348236/170151399-a723afdd-a87a-4176-bb74-f64bc57677ee.png)
 
+[image1][image2][image3][image4]
