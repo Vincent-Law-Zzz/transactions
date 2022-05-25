@@ -24,5 +24,5 @@ password: _admin_
 **Host: localhost**<br>
 **Port: 8000**
 
-  ![logo](https://user-images.githubusercontent.com/58348236/170150446-29a34cf9-46ce-488e-a843-97ccb98cc185.png) 
+![image](https://user-images.githubusercontent.com/58348236/170151086-40a60d2e-76b3-48b0-a9ce-b0a924b07f93.png)
 
