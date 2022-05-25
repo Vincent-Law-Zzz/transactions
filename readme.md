@@ -31,5 +31,3 @@ password: _admin_
 ![image3](https://user-images.githubusercontent.com/58348236/170151266-5313f83c-296a-473c-8839-f07a6b4d720c.png)
 
 ![image4](https://user-images.githubusercontent.com/58348236/170151399-a723afdd-a87a-4176-bb74-f64bc57677ee.png)
-
-[image1][image2][image3][image4]
