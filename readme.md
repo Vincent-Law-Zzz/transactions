@@ -16,7 +16,7 @@
 
 >docker-compose stop [name of service]
 
-### Django db admin
+### The Django admin site
 
 username: _admin_ <br>
 password: _admin_
